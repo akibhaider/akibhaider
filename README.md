@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, Akib's here😁</h1>
-<h3 align="center">CSE Undergrad(mighty 3rd year) at Islamic University of Technology</h3>
+<h3 align="center">CSE Undergrad at Islamic University of Technology</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
