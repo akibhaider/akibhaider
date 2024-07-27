@@ -26,8 +26,9 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> </a>
 </p>
 
+<br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaakloo-waiting&theme=dracula&layout=compact" alt="Top Languages">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaakloo-waiting&show_icons=true&locale=en&layout=compact" alt="aaakloo-waiting" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaakloo-waiting&show_icons=true&locale=en" alt="aaakloo-waiting" /></p>
 
