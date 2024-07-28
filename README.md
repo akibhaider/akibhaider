@@ -33,7 +33,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Profile Overview</h3>
+<h2 align="center">Profile Overview</h2>
 
 <div align="center">
   
