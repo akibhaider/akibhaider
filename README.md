@@ -50,7 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.youtube.com/c/akib haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akib haider" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9d-AAkWY-Qk-UDutrM8fOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akib haider" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aaakloo_waiting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aaakloo_waiting" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aardvark" target="blank"><img align="center" src="https://img.icons8.com/ios7/200/4D4D4D/codechef.png" alt="aardvark" height="30" width="40" /></a>
 <a href="https://kaggle.com/akibiut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akibiut" height="30" width="40" /></a>
