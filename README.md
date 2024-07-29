@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, Akib's here😁</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaakloo-waiting&label=Profile%20views&color=0e75b6&style=flat" alt="aaakloo-waiting" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akibhaider&label=Profile%20views&color=0e75b6&style=flat" alt="akibhaider" /> </p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="left">
@@ -37,14 +37,14 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaakloo-waiting&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibhaider&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaakloo-waiting&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaakloo-waiting&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akibhaider&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akibhaider&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaakloo-waiting&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaakloo-waiting&theme=dracula&utcOffset=6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akibhaider&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akibhaider&theme=dracula&utcOffset=6)
 <br>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaakloo-waiting&theme=dracula&layout=compact)-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaakloo-waiting&theme=dracula)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=akibhaider&theme=dracula&layout=compact)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=akibhaider&theme=dracula)
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -56,5 +56,5 @@
 <a href="https://kaggle.com/akibiut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akibiut" height="30" width="40" /></a>
 </p>
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaakloo-waiting" alt="aaakloo-waiting" theme="dracula" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akibhaider" alt="akibhaider" theme="dracula" /></a></p>
 -->
