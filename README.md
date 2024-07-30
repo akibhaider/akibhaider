@@ -57,4 +57,5 @@
 </p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akibhaider" alt="akibhaider" theme="dracula" /></a></p>
+<img src="https://raw.githubusercontent.com/akibhaider/akibhaider/output/snake.svg" alt="Snake animation" />
 -->
