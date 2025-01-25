@@ -36,15 +36,11 @@
 <h2 align="center">Profile Overview</h2>
 
 <div align="center">
-  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibhaider&theme=dracula)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akibhaider&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akibhaider&theme=dracula)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akibhaider&theme=dracula&utcOffset=6)
 <br>
-
 ### Github Stats 
 ![](https://github-readme-stats-green-three.vercel.app/api?username=akibhaider&count_private=true&theme=tokyonight)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=akibhaider&theme=dracula&layout=compact)-->
